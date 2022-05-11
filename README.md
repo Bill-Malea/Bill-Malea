@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **bill.malea@yahoo.com**
 
-- 📄 Know about my experiences [heroku/billmalea.com](heroku/billmalea.com)
-
 - ⚡ Fun fact **You can call me a 'Dartist' a dart enthusiast and a DART programmer.**
 
 <h3 align="left">Connect with me:</h3>
