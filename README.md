@@ -1,8 +1,6 @@
 -<h1 align="center">Hi 👋, I'm BILL MALEA</h1>
 <h3 align="center">A Software Engineer from Eldoret,Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bill-malea" alt="bill-malea" /></a> </p>
-
 - 🌱 I’m currently learning ** Node js**
 
 - 👨‍💻 All of my projects are available at [github.com.com/Bill-malea](github.com.com/Bill-malea)
