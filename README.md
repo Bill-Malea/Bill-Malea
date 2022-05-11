@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** Node js**
 
-- 👨‍💻 All of my projects are available at [github.com.com/bill-malea](github.com.com/bill-malea)
+- 👨‍💻 All of my projects are available at [github.com.com/Bill-malea](github.com.com/Bill-malea)
 
 - 💬 Ask me about **Flutter,Public Blockchain,Firebase**
 
