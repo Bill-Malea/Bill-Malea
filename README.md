@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bill-malea" alt="bill-malea" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@billmalea" target="blank"><img src="https://img.shields.io/twitter/follow/@billmalea?logo=twitter&style=for-the-badge" alt="@billmalea" /></a> </p>
-
 - 🌱 I’m currently learning ** Node js**
 
 - 👨‍💻 All of my projects are available at [github.com.com/Bill-malea](github.com.com/Bill-malea)
