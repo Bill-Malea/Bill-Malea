@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning ** Node js**
 
-- 👨‍💻 All of my projects are available at [heroku/billmalea.com](heroku/billmalea.com)
+- 👨‍💻 All of my projects are available at [github.com.com/bill-malea](github.com.com/bill-malea)
 
-- 💬 Ask me about **Flutter,Public Blockchain**
+- 💬 Ask me about **Flutter,Public Blockchain,Firebase**
 
 - 📫 How to reach me **bill.malea@yahoo.com**
 
