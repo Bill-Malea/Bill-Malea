@@ -1,7 +1,7 @@
 -<h1 align="center">Hi 👋, I'm BILL MALEA</h1>
 <h3 align="center">A Software Engineer from Eldoret,Kenya</h3>
 
-- 🌱 I’m currently learning ** Node js**
+- 🌱 I’m currently learning **SOLUTIONS ARCHITECH**
 
 - 👨‍💻 All of my projects are available at [github.com/Bill-malea](github.com/Bill-malea)
 
