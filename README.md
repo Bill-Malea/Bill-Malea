@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS SOLUTIONS ARCHITECT**
 
-- 👨‍💻 All of my projects are available at [https://www.billmalea.site](github.com/Bill-malea)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.billmalea.site)
 
 - 💬 Ask me about **Flutter,Public Blockchain,Firebase**
 
